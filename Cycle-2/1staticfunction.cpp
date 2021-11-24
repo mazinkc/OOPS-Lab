@@ -1,3 +1,20 @@
+/*
+    Algorithm
+    1) start
+    2) Create class Average
+    3) Initialise variables and integer array
+    4) create a function to read values from user
+    4) create a static function to find average
+    5) create a function to multiply elements of integer array with user defned intiger constant
+    6) write a function to sort the array and print sorted array
+    7) create 3 object from classes 
+    8) get input and find average of array elements using first object
+    9) multiply array elemnts with a constant using 2nd object
+    10) find average with first object
+    11) sort the array using 3rd object
+    12) stop 
+*/
+
 #include <iostream>
 using namespace std;
 

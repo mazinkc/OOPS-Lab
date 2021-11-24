@@ -1,3 +1,14 @@
+/*
+    Algorithm
+
+    1) start
+    2) get co-ordinates from user
+    3) create a function to find distance between points
+    4) create a function to check validity of triangle
+    5) print minimum distance between co-ordinates using distance function
+    6) print the validity of triangle
+    7) stop   
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
