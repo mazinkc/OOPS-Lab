@@ -58,6 +58,11 @@ class Numbers
         cout << "Mod is :" << mode << endl;
     }
 
+    ~Numbers()
+    {
+        delete []ptr;
+    }
+
 };
 
 int main()
